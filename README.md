@@ -23,7 +23,7 @@ Each week includes a hands-on Colab notebook, a mini-project, and write-ups in s
 - **Week 3:** [RAG Basics & Mini-Project](https://colab.research.google.com/drive/1NhBH2yEveqN-qEhTwS9Oxb8m09nZ9MOo)  
 - **Week 4:** [Vector Store Integration (Chroma/FAISS)](https://colab.research.google.com/drive/1DJdu9Eri9OQzQ5NUzkTfS5cscNdvQPGE)  
 - **Week 5:** [Advanced RAG Pipelines & Project](https://colab.research.google.com/drive/WEEK5_NOTEBOOK_ID)  
-- **Week 6:** [QLoRA & Large Model Tuning](https://colab.research.google.com/drive/WEEK7_NOTEBOOK_ID)  
+- **Week 6:** [QLoRA & Large Model Tuning](https://huggingface.co/AnasML/Price_model)  
 - **Week 7:** [Sales Agent openai agent sdk](https://colab.research.google.com/drive/1nZpyyGKhDIsRM8LwiwqVGdLINWavxtGb)  
 
 > **📌 Replace `WEEK?_NOTEBOOK_ID` with your actual Colab IDs before sharing.**
