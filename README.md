@@ -1,17 +1,17 @@
-# 🚀 LLM Engineering: 8-Week Roadmap & Portfolio
+# 🚀 LLM Engineering && agentic ai: 12-Week Roadmap & Portfolio
 
 Welcome! I’m currently enrolled in the **“LLM Engineering: Master AI & Large Language Models”** Udemy course ([LETSLEARNNOW](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/?couponCode=LETSLEARNNOW)). This repository tracks my weekly progress, key learnings, hands-on projects, and provides Google Colab notebooks for each week.
 
 Over **8 weeks**, we’ll cover:
 
-1. **Week 1:** Foundations of LLMs & Embeddings  
-2. **Week 2:** Prompt Engineering & Chaining  
-3. **Week 3:** Retrieval-Augmented Generation (RAG) Basics  
-4. **Week 4:** Vector Stores & FAISS/Chroma Integrations  
-5. **Week 5:** Advanced RAG Pipelines & Mini-Projects  
-6. **Week 6:** LoRA Fine-Tuning Techniques  
-7. **Week 7:** QLoRA & Large-Scale Fine-Tuning  
-8. **Week 8:** Autonomous Agents with OpenAI Agent SDK & Capstone
+1. **Week 1: Foundations of LLMs & Embeddings  
+2. **Week 2: Prompt Engineering & Chaining  
+3. **Week 3: Retrieval-Augmented Generation (RAG) Basics  
+4. **Week 4: Vector Stores & FAISS/Chroma Integrations  
+5. **Week 5: Advanced RAG Pipelines & Mini-Projects  
+6. **Week 6: LoRA Fine-Tuning Techniques  
+7. **Week 7: QLoRA & Large-Scale Fine-Tuning  
+8. **Week 8: Autonomous Agents with OpenAI Agent SDK & Capstone
 
 Each week includes a hands-on Colab notebook, a mini-project, and write-ups in subfolders.
 
@@ -20,12 +20,11 @@ Each week includes a hands-on Colab notebook, a mini-project, and write-ups in s
 
 - **Week 1:** [Foundations & Embeddings](https://colab.research.google.com/drive/WEEK1_NOTEBOOK_ID)  
 - **Week 2:** [Prompt Engineering & Chaining](https://colab.research.google.com/drive/WEEK2_NOTEBOOK_ID)  
-- **Week 3:** [RAG Basics & Mini-Project](https://colab.research.google.com/drive/WEEK3_NOTEBOOK_ID)  
-- **Week 4:** [Vector Store Integration (Chroma/FAISS)](https://colab.research.google.com/drive/WEEK4_NOTEBOOK_ID)  
+- **Week 3:** [RAG Basics & Mini-Project](https://colab.research.google.com/drive/1NhBH2yEveqN-qEhTwS9Oxb8m09nZ9MOo)  
+- **Week 4:** [Vector Store Integration (Chroma/FAISS)](https://colab.research.google.com/drive/1DJdu9Eri9OQzQ5NUzkTfS5cscNdvQPGE)  
 - **Week 5:** [Advanced RAG Pipelines & Project](https://colab.research.google.com/drive/WEEK5_NOTEBOOK_ID)  
-- **Week 6:** [LoRA Fine-Tuning Workshop](https://colab.research.google.com/drive/WEEK6_NOTEBOOK_ID)  
-- **Week 7:** [QLoRA & Large Model Tuning](https://colab.research.google.com/drive/WEEK7_NOTEBOOK_ID)  
-- **Week 8:** [Autonomous Agent Capstone](https://colab.research.google.com/drive/WEEK8_NOTEBOOK_ID)  
+- **Week 6:** [QLoRA & Large Model Tuning](https://colab.research.google.com/drive/WEEK7_NOTEBOOK_ID)  
+- **Week 7:** [Sales Agent openai agent sdk](https://colab.research.google.com/drive/1nZpyyGKhDIsRM8LwiwqVGdLINWavxtGb)  
 
 > **📌 Replace `WEEK?_NOTEBOOK_ID` with your actual Colab IDs before sharing.**
 
@@ -90,6 +89,6 @@ Each week includes a hands-on Colab notebook, a mini-project, and write-ups in s
 
 - **GitHub:** [github.com/yourusername/llm-engineering-portfolio](https://github.com/yourusername/llm-engineering-portfolio)  
 - **LinkedIn:** [linkedin.com/in/muhammad-anas-ai](https://www.linkedin.com/in/muhammad-anas-ai-ai)  
-- **Email:** your.email@domain.com  
+- **Email:** anasahmedahmed378@gmail.com  
 
 Feel free to explore each week’s folder, run the Colabs, and reach out with feedback or opportunities! 🚀  
